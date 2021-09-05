@@ -1,1 +1,3 @@
 <?php
+
+$users = ['ram', 'sita'];
