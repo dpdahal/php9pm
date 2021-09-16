@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecfe0183-a91f-4fae-aa60-ec9b82ea27cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bookshop/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookshop/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookshop/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bookshop/welcome.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/db.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crud/update.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise/users-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session/demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gallery/upload.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/array.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/function.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/super-global.php" beforeDir="false" afterPath="$PROJECT_DIR$/super-global.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,7 +65,12 @@
       <workItem from="1631269661782" duration="612000" />
       <workItem from="1631416029837" duration="1934000" />
       <workItem from="1631425148451" duration="14000" />
-      <workItem from="1631502751697" duration="3625000" />
+      <workItem from="1631502751697" duration="4076000" />
+      <workItem from="1631510793716" duration="45000" />
+      <workItem from="1631596738319" duration="6000" />
+      <workItem from="1631678643653" duration="595000" />
+      <workItem from="1631700971276" duration="97000" />
+      <workItem from="1631763121625" duration="2560000" />
     </task>
     <servers />
   </component>
