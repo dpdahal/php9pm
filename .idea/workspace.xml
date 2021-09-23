@@ -2,9 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecfe0183-a91f-4fae-aa60-ec9b82ea27cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gallery/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gallery/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/errors/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/welcome.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/connection.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/db.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/insert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/day1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/intro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/users-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/images/19684b1a0bd97d406d4fff67f7aa63f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/images/26a3aa6e1ae163fe19d626b18fb9daae.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/images/c84f885825fdaafc4c0b917c5e68a02d.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/upload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/super-global.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +74,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -70,7 +127,14 @@
       <workItem from="1631596738319" duration="6000" />
       <workItem from="1631678643653" duration="595000" />
       <workItem from="1631700971276" duration="97000" />
-      <workItem from="1631763121625" duration="2560000" />
+      <workItem from="1631763121625" duration="2834000" />
+      <workItem from="1631769631472" duration="9000" />
+      <workItem from="1631853864028" duration="538000" />
+      <workItem from="1631960788926" duration="18000" />
+      <workItem from="1632024392276" duration="2830000" />
+      <workItem from="1632028185472" duration="12000" />
+      <workItem from="1632193714607" duration="5313000" />
+      <workItem from="1632365076704" duration="4178000" />
     </task>
     <servers />
   </component>
